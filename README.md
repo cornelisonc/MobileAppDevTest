@@ -1,4 +1,4 @@
 MobileAppDevTest
 ================
 
-Change for class 
+Changed by Tyten for class.
